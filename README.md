@@ -1,1 +1,3 @@
 # sketch
+
+A minimal project.
